@@ -1,0 +1,323 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/v/mod_2/B2_mid_mod_1906/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/assets.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/cookies_serializer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/factories/author.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/factories/author_book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/factories/book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/support/factory_bot.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/author_book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/author_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/author.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/book_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1609284830
+  }
+}
