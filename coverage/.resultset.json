@@ -206,7 +206,7 @@
         "lines": [
           1,
           1,
-          1,
+          4,
           null,
           null
         ]
@@ -225,9 +225,9 @@
         "lines": [
           1,
           1,
-          1,
-          1,
-          1,
+          4,
+          4,
+          4,
           null,
           null
         ]
@@ -235,7 +235,8 @@
       "/Users/v/mod_2/B2_mid_mod_1906/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
+          1,
           null
         ]
       },
@@ -252,8 +253,9 @@
           null
         ]
       },
-      "/Users/v/mod_2/B2_mid_mod_1906/app/models/author_book.rb": {
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/book.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -267,21 +269,6 @@
           null
         ]
       },
-      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/author_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          null,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
       "/Users/v/mod_2/B2_mid_mod_1906/app/models/author.rb": {
         "lines": [
           1,
@@ -291,33 +278,32 @@
           null
         ]
       },
-      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/book_spec.rb": {
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/author_book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/controllers/books_controller.rb": {
         "lines": [
           1,
           null,
           1,
           1,
-          2,
-          2,
-          null,
-          1,
-          2,
-          2,
-          2,
           null,
           null
         ]
       },
-      "/Users/v/mod_2/B2_mid_mod_1906/app/models/book.rb": {
+      "/Users/v/mod_2/B2_mid_mod_1906/app/controllers/application_controller.rb": {
         "lines": [
-          1,
-          1,
           1,
           1,
           null
         ]
       }
     },
-    "timestamp": 1609284830
+    "timestamp": 1609286872
   }
 }
