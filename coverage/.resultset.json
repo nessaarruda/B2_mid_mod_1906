@@ -259,6 +259,10 @@
           1,
           1,
           1,
+          null,
+          1,
+          3,
+          null,
           null
         ]
       },
@@ -266,6 +270,41 @@
         "lines": [
           1,
           1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/author_book_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/models/author_book.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/author_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       },
@@ -278,11 +317,32 @@
           null
         ]
       },
-      "/Users/v/mod_2/B2_mid_mod_1906/app/models/author_book.rb": {
+      "/Users/v/mod_2/B2_mid_mod_1906/spec/models/book_spec.rb": {
         "lines": [
           1,
+          null,
           1,
           1,
+          2,
+          2,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -291,7 +351,7 @@
           1,
           null,
           1,
-          1,
+          2,
           null,
           null
         ]
@@ -302,8 +362,22 @@
           1,
           null
         ]
+      },
+      "/Users/v/mod_2/B2_mid_mod_1906/app/controllers/authors_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1609286872
+    "timestamp": 1609290838
   }
 }
