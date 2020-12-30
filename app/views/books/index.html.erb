@@ -3,9 +3,11 @@
 <hr>
 <h2>Title: <%= book.title %></h2>
 <h2>Number of Pages: <%= book.number_of_pages %></h2>
-<h2>Year of publication: <%= book.publication_year %></h2>
 <h2>Authors: </h2>
+<h2>Year of publication: <%= book.publication_year %></h2>
   <h2><% book.authors.each do |author| %></h2>
-  <h2><%= author.name %></h2>
+  <div id="authors">
+    <h2><%= link_to author.name, "/authors/#{author.id}" %></h2>
+  </div>
   <% end %>
 <% end %>
